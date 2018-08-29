@@ -4,17 +4,8 @@ build
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 [![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
 
-Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/atom/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
-Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https://discuss.atom.io).
-
-Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
-announcements.
-
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
-
-## Documentation
+Documentation
 
 If you want to read about using Atom or developing packages in Atom, the [Atom Flight Manual](https://flight-manual.atom.io) is free and available online. You can find the source to the manual in [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io).
 
