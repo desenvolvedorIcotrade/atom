@@ -1,9 +1,9 @@
 # Atom Core Packages
 
-This folder contains core packages that are bundled with Atom releases.  Not all Atom core packages are kept here; please
+_This folder contains core packages that are bundled with Atom releases.  Not all Atom core packages are kept here; please
 see the table below for the location of every core Atom package.
 
-> **NOTE:** There is an ongoing effort to migrate more Atom packages from their individual repositories to this folder.
+> **NOTE:**_ There is an ongoing effort to migrate more Atom packages from their individual repositories to this folder.
 See [RFC 003](https://github.com/atom/atom/blob/master/docs/rfcs/003-consolidate-core-packages.md) for more details.
 
 | Package | Where to find it | Migration issue |
