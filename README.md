@@ -3,7 +3,7 @@ build
 [![Build status](https://github.visualstudio.com/Atom/_apis/build/status/Atom%20Production%20Branches?branch=master)](https://github.visualstudio.com/Atom/_build/latest?definitionId=32&branch=master) [![Linux Build Status](https://travis-ci.org/atom/atom.svg?branch=master)](https://travis-ci.org/atom/atom) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/1tkktwh654w07eim?svg=true)](https://ci.appveyor.com/project/Atom/atom)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 [![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
-[ https://criativasitesjoinville.business.site ]
+ https://criativasitesjoinville.business.site 
 
 Documentation
 
@@ -69,4 +69,4 @@ repeat these steps to upgrade to future releases.
 
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
-When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines]( https://criativasitesjoinville.business.site  ).
