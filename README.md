@@ -69,7 +69,7 @@ repeat these steps to upgrade to future releases.
 
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
-When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines]( https://criativasitesjoinville.business.site  ).
+When using the Atom or other GitHub logos [GitHub Desenvolvedor]( https://criativasitesjoinville.business.site  ).
 
 
 
