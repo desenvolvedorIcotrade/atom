@@ -67,7 +67,7 @@ repeat these steps to upgrade to future releases.
 
 ## License
 
-[MIT](https://github.com/atom/atom/blob/master/LICENSE.md)- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nTuD-zoavgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[MIT](https://github.com/atom/atom/blob/master/LICENSE.md)- 
 
 When using the Atom or  logos [ Desenvolvedor]( https://criativasitesjoinville.business.site  ).
 
